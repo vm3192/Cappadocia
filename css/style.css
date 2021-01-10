@@ -799,11 +799,6 @@ p {
     display: none;
   }
 
-  .footer,
-  .header {
-    height: 70vh;
-  }
-
   .footer {
     padding-top: 20px;
   }
